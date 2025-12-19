@@ -1,6 +1,7 @@
 {
   "name": "yt-backend",
   "version": "1.0.0",
+  "description": "YouTube Proxy Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
